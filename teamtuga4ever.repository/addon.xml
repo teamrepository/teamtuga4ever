@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="teamtuga4ever.repository" name="teamuga4ever" version="1.2" provider-name="teamtuga4">
+<addon id="teamtuga4ever.repository" name="Teamuga4ever Repository" version="1.3" provider-name="teamtuga4">
 	<extension point="xbmc.addon.repository" name="teamuga4ever repository">
-		<info compressed="false">http://teamtuga4everrepository.comli.com/addons.xml</info>
-		<checksum>http://teamtuga4everrepository.comli.com/addons.xml.md5</checksum>
-		<datadir zip="true">http://teamtuga4everrepository.comli.com/instal/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/teamrepository/teamtuga4ever/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/teamrepository/teamtuga4ever/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/teamrepository/teamtuga4ever/tree/master/instal/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Equipe TeamTuga4ever</summary>
